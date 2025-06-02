@@ -4,11 +4,11 @@
 
 [![LinkedIn Badge](your_linkedin_badge_URL)](https://www.linkedin.com/in/valerie-castro-147477126)
 
-**BIO:** Passionate professional with expertise in Project Management, corporate communication, and a drive for ethical solutions, currently advancing as a QA Engineer. [cite: 1, 2, 3]
+**BIO:** Passionate professional with expertise in Project Management, corporate communication, and a drive for ethical solutions, currently advancing as a QA Engineer.
 
 ## About Me
 
-I am an Economist with a Master's in Engineering Management, currently expanding my skills in QA Engineering. My background includes strong project management experience, a focus on sustainability, and a passion for leveraging technology for positive impact. [cite: 1, 13] I thrive in collaborative environments and enjoy tackling complex challenges. [cite: 3, 4]
+I am an Economist with a Master's in Engineering Management, currently expanding my skills in QA Engineering. My background includes strong project management experience, a focus on sustainability, and a passion for leveraging technology for positive impact. I thrive in collaborative environments and enjoy tackling complex challenges. 
 
 ## Skills
 
